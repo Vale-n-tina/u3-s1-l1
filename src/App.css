@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  padding: 0.5rem 1rem;
+  color: rgb(216, 12, 243);
+  background-color: black;
+  
+}
+.div{
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  padding: 1rem;
+}
